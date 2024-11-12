@@ -16,7 +16,7 @@ This project is an intelligent FAQ chatbot designed to answer frequently asked q
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Intelligent_FAQ_Chatbot.git
+   https://github.com/salamullah/LLMs-NLP-and-Text-Mining.git
    ```
    
 2. **Install dependencies**:
